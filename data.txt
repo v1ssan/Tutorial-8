@@ -1,0 +1,10 @@
+Python Programming Example
+==========================
+This file is created to demonstrate reading text files in a Python class.
+Here are some random facts:
+1. Python was released in 1991.
+2. It's named after 'Monty Python', not the snake.
+3. Python supports multiple programming paradigms.
+4. It's widely used in data science, web development, and automation.
+
+End of file.
